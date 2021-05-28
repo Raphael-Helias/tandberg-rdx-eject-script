@@ -1,0 +1,6 @@
+date de la creation du log  2021-05  
+debut  ejection a  28/05/2021  20:17:27,66  
+ fin  ejection a  28/05/2021 20:17:27,94  
+date de la création du log  2021-05  
+debut  ejection a  28/05/2021  20:17:31,65  
+ fin  ejection a  28/05/2021 20:17:31,80  
